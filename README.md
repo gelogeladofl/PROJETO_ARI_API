@@ -6,7 +6,7 @@ Ela define instruções, padrões e rotinas que permitem que diferentes sistemas
 
 Além disso, uma API fornece funcionalidades prontas que podem ser utilizadas por outros sistemas sem que os desenvolvedores precisem conhecer todos os detalhes do código-fonte. Isso economiza tempo e evita que seja necessário “reinventar a roda”.
 
-## Exemplo prático
+##  Exemplo prático
 
 Imagine um jogo já compilado: normalmente o jogador não consegue acessar ou modificar o funcionamento interno dele. Porém, alguns jogos possuem suporte para mods e oferecem ferramentas como editores de mapas ou itens.
 
